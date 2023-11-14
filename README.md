@@ -1,3 +1,5 @@
+![Github](https://github.com/DanieKab/DanieKab/assets/150777048/1118cea1-d5bd-4ed8-9eef-13c586b8eeae)
+
 ### Welcome to Danie's Development Hub!
 
 Hi there! 👋 I'm Danie, a Full-Stack Developer specializing in the MERN stack. With a passion for building scalable and efficient web applications, I bring a blend of creativity and technical expertise to every project.

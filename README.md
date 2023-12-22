@@ -2,14 +2,13 @@
 
 ### Welcome to Danie's Development Hub!
 
-Hi there! 👋 I'm Danie, a Full-Stack Developer specializing in the MERN stack. With a passion for building scalable and efficient web applications, I bring a blend of creativity and technical expertise to every project.
+Hi there! 👋 I'm Danie, a Front-End Developer with a passion for building scalable and efficient web applications, I bring a blend of creativity and technical expertise to every project.
 
 ## Expertise
 I have extensive experience with the following technologies:
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![React_Native](https://img.shields.io/badge/-React_Native-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -22,9 +21,6 @@ I have extensive experience with the following technologies:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 ## Let's Connect!
